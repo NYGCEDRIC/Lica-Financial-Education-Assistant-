@@ -16,6 +16,7 @@ Financial literacy is a cornerstone for economic empowerment and stability. Inad
 - 🔑 An API key for Llama Cloud and NVIDIA NIM
 
 ## 🚀 Getting Started
+![Lica Install Demo](lica_install_demo.gif)
 
 ### 1. 📂 Use this repo as a template and Clone the Repository
 Clone it locally * via terminal of your favourite code editor:
