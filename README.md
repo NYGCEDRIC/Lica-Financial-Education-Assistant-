@@ -21,7 +21,7 @@ Financial literacy is a cornerstone for economic empowerment and stability. Inad
 ### 1. 📂 Use this repo as a template and Clone the Repository
 Clone it locally * via terminal of your favourite code editor:
 ```bash
-git clone repo url for example https://github.com/NYGCEDRIC/lica.git
+git clone repo url for example git clone https://github.com/NYGCEDRIC/lica.git
 cd <name of the repo>(i.e lica)
 ```
 ### 2. 📦 Install Dependencies
