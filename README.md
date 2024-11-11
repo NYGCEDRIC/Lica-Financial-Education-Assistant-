@@ -33,12 +33,22 @@ Create a `.env` file in the project root by copying the `.env.example` file:
 ```bash
 cp .env.example .env
 ```
-Open `.env` and replace the placeholders with your actual API keys:
+#### Open and Edit the `.env` File:
+1. **Using a Code Editor**: Open the `.env` file in your code editor.
+2. **Using the Terminal**: You can also open it directly in the terminal using `nano` (Linux/macOS) or `notepad` (Windows):
+   - For Linux/macOS:
+     ```bash
+     nano .env
+     ```
+   - For Windows:
+     ```bash
+     notepad .env
+     ```
+3. Replace the placeholders with your actual API keys:
+   ```ini
+   LLAMA_CLOUD_API_KEY=your_actual_llama_cloud_api_key
+   NIM_API_KEY=your_actual_nim_api_key
 
-```ini
-LLAMA_CLOUD_API_KEY=your_actual_llama_cloud_api_key
-NIM_API_KEY=your_actual_nim_api_key
-```
 ### 4. ▶️ Run the Application
 Start the Gradio app:
 ```bash
