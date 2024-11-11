@@ -1,0 +1,9 @@
+gradio==3.35.2           # Ensure compatibility with a specific Gradio version if needed
+python-dotenv            # For loading environment variables from .env file
+Pillow                   # For image processing
+pytesseract              # For OCR with images
+llama-index              # LlamaIndex (Make sure to specify version if needed)
+openai                   # For OpenAI integrations
+numpy                    # For any numerical operations if needed
+requests                 # For making API calls (common dependency)
+pdfplumber               # For extracting text from PDF files (if you plan to extend PDF handling)
