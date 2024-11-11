@@ -1,4 +1,4 @@
-# 💸 Financial Literacy Chatbot
+# 💸 Lica (Financial Literacy Chatbot)
 
 This project was created for the NVIDIA and LlamaIndex Developer Contest to address a pressing need for financial literacy. Despite the critical role financial knowledge plays in people's lives, studies show that **only 33% of adults worldwide** are financially literate, and many individuals struggle with understanding credit reports, debt management, and personal finance. By leveraging advanced technologies like **NVIDIA's NIM** and **LlamaIndex**, this Gradio-based chatbot aims to make financial advice more accessible, personalized, and actionable.
 
@@ -20,8 +20,8 @@ Financial literacy is a cornerstone for economic empowerment and stability. Inad
 ### 1. 📂 Clone the Repository
 Fork the repository and clone it locally:
 ```bash
-git clone https://github.com/yourusername/my-financial-chatbot.git
-cd my-financial-chatbot
+git clone https://github.com/yourusername/lica.git
+cd lica
 ```
 ### 2. 📦 Install Dependencies
 Install the required dependencies using pip:
