@@ -1,6 +1,11 @@
 # 💸 Financial Literacy Chatbot
 
-This project is a Gradio-based chatbot designed to provide financial advice by analyzing financial documents like credit reports using LlamaIndex and NVIDIA technologies.
+This project was created for the NVIDIA and LlamaIndex Developer Contest to address a pressing need for financial literacy. Despite the critical role financial knowledge plays in people's lives, studies show that **only 33% of adults worldwide** are financially literate, and many individuals struggle with understanding credit reports, debt management, and personal finance. By leveraging advanced technologies like **NVIDIA's NIM** and **LlamaIndex**, this Gradio-based chatbot aims to make financial advice more accessible, personalized, and actionable.
+
+## Why Focus on Financial Literacy?
+
+Financial literacy is a cornerstone for economic empowerment and stability. Inadequate financial knowledge can lead to poor credit scores, debt accumulation, and missed opportunities for wealth building. This chatbot was designed to simplify the process of analyzing financial documents like credit reports, offering tailored advice to help users make informed financial decisions, boost their creditworthiness, and achieve their financial goals.
+
 
 ## ✨ Features
 - 📄 Upload PDFs or images for analysis
