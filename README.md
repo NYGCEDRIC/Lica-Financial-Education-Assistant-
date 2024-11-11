@@ -17,11 +17,11 @@ Financial literacy is a cornerstone for economic empowerment and stability. Inad
 
 ## 🚀 Getting Started
 
-### 1. 📂 Clone the Repository
+### 1. 📂 Use this repo as a template and Clone the Repository
 Clone it locally:
 ```bash
-git clone https://github.com/NYGCEDRIC/lica.git
-cd lica
+git clone https://github.com/NYGCEDRIC/<name of the repo>(i.e lica).git
+cd <name of the repo>(i.e lica)
 ```
 ### 2. 📦 Install Dependencies
 Install the required dependencies using pip:
